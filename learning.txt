@@ -1,2 +1,2 @@
-Something I've learned in this course is how to use Git and GitHub commands. 
+What I have learned from this course is how to use Git and GitHub commands. 
 I'm now understanding how to clone repositories and work with files in Linux.
